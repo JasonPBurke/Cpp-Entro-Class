@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 6: Write a program that uses 3 overloaded functions to ask for, calculate, and display the distance between
 //  either 2 letters, 2 numbers in a range, or 2 (x,y) point sets.  
 /*

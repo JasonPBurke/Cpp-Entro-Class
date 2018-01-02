@@ -2,10 +2,7 @@
   Author:		   Jason Burke
   Assignment:      Lab 10
   Topic:           memory diagram with stack, heap structures
-  File Name:       MW16_L10_Burke.cpp
-  Course/Section:  COSC 1337
-  Due Date:        See syllabus or blackboard
-  Instructor:      Thayer
+
 */
 
 /*

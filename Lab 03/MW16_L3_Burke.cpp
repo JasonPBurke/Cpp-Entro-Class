@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 3:  Create a Math Tutor sutable for 3rd graders that restricts the ansewers to 100 or less.
 */
 

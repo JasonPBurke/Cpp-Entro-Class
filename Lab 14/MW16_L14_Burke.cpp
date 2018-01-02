@@ -1,9 +1,6 @@
 // Author:               Jason Burke
 // Assignment Number:    Lab 14
-// File Name:            MW16_L14_burke.cpp
-// Course/Section:       COSC 1337 Section MW16
-// Due Date:             S7/26/17
-// Instructor:           Thayer
+
 
 
 /*

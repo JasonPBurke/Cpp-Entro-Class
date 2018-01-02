@@ -2,10 +2,7 @@
   Author:		   Jason Burke
   Assignment:      Lab 11
   Topic:           more on classes and objects
-  File Name:       MW16_L11_Burke.cpp
-  Course/Section:  COSC 1337
-  Due Date:        7/21/2017
-  Instructor:      Thayer
+
 */
 
 /*

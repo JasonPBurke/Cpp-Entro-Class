@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 2:  Create a diamond pattern whose number of lines can be determined by the user.
 */
 

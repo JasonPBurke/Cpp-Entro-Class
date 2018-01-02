@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 9: Programming Challenge
 */
 /*

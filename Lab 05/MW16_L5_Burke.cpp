@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 5: Write a program that reads population data from a file and displays it in a bar chart.  Allow for the file to be
            edited and still be read.
 

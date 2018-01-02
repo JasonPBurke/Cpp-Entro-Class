@@ -1,7 +1,6 @@
 /*
 //  Author: Jason Burke;
-//  Course: COSC 1337 Summer 2016 MW16;
-//  Instructor: Thayer
+
 //  Lab 4: Write a program that displays a menu allowing the user to select air, water, or steel (and a distance) and then
 //         display the amount of time it will take for the sound wave to travel that distance in that medium.
 */
